@@ -1,5 +1,5 @@
-import entity.Battery;
-import entity.FlashLamp;
+import entity.ex2part2.Battery;
+import entity.ex2part2.FlashLamp;
 
 public class Ex2Part2 {
     public static void main(String[] args) {

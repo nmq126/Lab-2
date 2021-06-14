@@ -1,5 +1,5 @@
-import entity.ElectricLamp;
-import entity.SwitchButton;
+import entity.ex3part3.ElectricLamp;
+import entity.ex3part3.SwitchButton;
 
 public class Ex3Part3 {
     public static void main(String[] args) {

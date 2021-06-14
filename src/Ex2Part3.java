@@ -1,4 +1,4 @@
-import entity.Temperature;
+import entity.ex2part3.Temperature;
 
 public class Ex2Part3 {
     public static void main(String[] args) {

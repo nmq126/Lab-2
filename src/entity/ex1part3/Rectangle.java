@@ -1,4 +1,4 @@
-package entity;
+package entity.ex1part3;
 
 public class Rectangle {
     private int width;

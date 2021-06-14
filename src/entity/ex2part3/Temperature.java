@@ -1,4 +1,4 @@
-package entity;
+package entity.ex2part3;
 
 public class Temperature {
     private double cTemp;

@@ -1,4 +1,4 @@
-import entity.Student;
+import entity.ex1part2.Student;
 
 public class Client {
     public static void main(String[] args) {

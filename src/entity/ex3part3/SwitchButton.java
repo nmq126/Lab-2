@@ -1,4 +1,4 @@
-package entity;
+package entity.ex3part3;
 
 public class SwitchButton {
     private boolean status;

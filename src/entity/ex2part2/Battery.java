@@ -1,4 +1,4 @@
-package entity;
+package entity.ex2part2;
 
 public class Battery {
     private int energy;

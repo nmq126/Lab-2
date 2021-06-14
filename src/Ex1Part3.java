@@ -1,4 +1,4 @@
-import entity.Rectangle;
+import entity.ex1part3.Rectangle;
 
 public class Ex1Part3 {
     public static void main(String[] args) {

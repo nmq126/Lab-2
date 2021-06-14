@@ -1,4 +1,4 @@
-package entity;
+package entity.ex1part2;
 
 public class Student {
     private int id;
